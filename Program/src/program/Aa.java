@@ -1,0 +1,19 @@
+package program;
+
+public class Aa 
+{
+	
+int a=10;
+int b=20;
+
+public void m1()
+{
+	int d=80;
+	
+	System.out.println("M1----A");
+}
+public void m2()
+{
+	System.out.println("M2----A");
+}
+}
